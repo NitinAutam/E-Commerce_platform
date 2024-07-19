@@ -1,6 +1,5 @@
 /* 
 
-================== Most Important ==================
 * Issue 1 :
 In uploads folder you need create 3 folder like bellow.
 Folder structure will be like: 
