@@ -2,8 +2,6 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 NPM / Yarn and Node.js installed
@@ -50,7 +48,7 @@ Access the web app at http://localhost:3000/
 
 ### Deploying the backend server to render
 
-Follow these setps 👇👇
+Follow these steps
 
 1. Create your render account in https://render.com/
 2. Connect your github to render and give the project permission for that
